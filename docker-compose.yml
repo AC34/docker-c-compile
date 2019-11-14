@@ -1,0 +1,9 @@
+version: "3"
+services:
+  compiler:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    volumes:
+      - ./src:/app
+  
