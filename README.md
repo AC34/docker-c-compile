@@ -1,5 +1,5 @@
 # simple c code testing enviroment with gcc image.
-## node
+## note
 using veresion 3 of docker-compose.
 ## prepare
 ```
